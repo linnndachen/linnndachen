@@ -38,7 +38,7 @@
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=macos&logoColor=FFFFFF)
-
+<!--
 ### &#x1f4c8;  My GitHub Stats
 <p align="left">
   <a href="https://github.com/linnndachen">
@@ -47,7 +47,6 @@
   </a>
 </p>
 
-<!--
 **wchen928/wchen928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
