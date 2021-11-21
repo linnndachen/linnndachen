@@ -19,13 +19,9 @@
 
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=5C2D91)
-  
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
   ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins&logoColor=D24939)
-  
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman&logoColor=FF6C37)
-  
   ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
 
 * **Databases**
